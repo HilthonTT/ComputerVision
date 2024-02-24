@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 *.h5
 models/malaria/model.h5
+models/malaria/checkpoints/checkpoint
+models/malaria/checkpoints/.index
+models/malaria/checkpoints/.data-00000-of-00001

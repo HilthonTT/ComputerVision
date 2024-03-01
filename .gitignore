@@ -403,3 +403,9 @@ models/malaria/checkpoints/checkpoint
 models/malaria/checkpoints/.index
 models/malaria/checkpoints/.data-00000-of-00001
 models/malaria/model.h5
+models/malaria/wandb/run-20240301_174708-9g4ttrim/files/conda-environment.yaml
+models/malaria/wandb/run-20240301_174708-9g4ttrim/run-9g4ttrim.wandb
+models/malaria/wandb/run-20240301_174708-9g4ttrim/files/config.yaml
+models/malaria/wandb/run-20240301_174708-9g4ttrim/files/requirements.txt
+models/malaria/wandb/run-20240301_174708-9g4ttrim/files/wandb-metadata.json
+models/malaria/model.h5
